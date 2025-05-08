@@ -1,0 +1,38 @@
+[
+    {
+        "varenavn": "test",
+        "varenummer": "1",
+        "antall": "1",
+        "pris": "10"
+    },
+    {
+        "varenavn": "rowe",
+        "varenummer": "ddid",
+        "antall": "to jdd",
+        "pris": "dwdwd"
+    },
+    {
+        "varenavn": "test2",
+        "varenummer": "sg",
+        "antall": "wef",
+        "pris": "wef"
+    },
+    {
+        "varenavn": "test3",
+        "varenummer": "w",
+        "antall": "w",
+        "pris": "w"
+    },
+    {
+        "varenavn": "wef",
+        "varenummer": "wr",
+        "antall": "wv",
+        "pris": "w"
+    },
+    {
+        "varenavn": "test6",
+        "varenummer": "wef",
+        "antall": "wef",
+        "pris": "wf"
+    }
+]
